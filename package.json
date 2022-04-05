@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "module-10-coursework",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfcodingbc/JEST-another-RPG.git"
+  },
+  "keywords": [
+    "JEST"
+  ],
+  "author": "mfcodingbc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfcodingbc/JEST-another-RPG/issues"
+  },
+  "homepage": "https://github.com/mfcodingbc/JEST-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
